@@ -1,6 +1,6 @@
 # september-jam
 
-TripleTen Code Pudding for September 2025
+Collaboration for TripleTen Code Pudding for September 2025
 
 ## Why We Chose This Dataset
 
